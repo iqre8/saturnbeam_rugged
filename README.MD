@@ -1,8 +1,8 @@
-###Saturnbeam has rugged us
+### Saturnbeam has rugged us
 If you're here you likely already heard the news that Saturnbeam.io has rugged us.
 While I am no official of anything I will try to provide as much info here as I accuratly can.
 
-###FAQ
+### FAQ
 Q: I lost a lot, I'm in trouble!
 A: Sorry to hear. We're doing the best we can to minimize the damage.
 
