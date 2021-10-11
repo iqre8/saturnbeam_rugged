@@ -27,6 +27,7 @@ Contracts deployed were never verified on chain (no guarantee that audited <> de
 Q: I want to give out a reward:
 A: We appreciate the generousity. We are currently working on minimizing the damage. 
 The moonbeans team did make a quick and dirty UI which has worked for some of us. They would likely appreciate it if you purchase their $BEANS and hodl as they prioritized helping the community.
+The solarbeam team is helping us with the tracing of the transactions. They would likely appreciate it if you purchase their $SOLAR and hodl as they prioritized helping the community.
 If after we are done you are still interested in donating, we'll see what we can do at a later stage.
 
 Q: I have their phonenumber
@@ -45,6 +46,9 @@ A: 12M
 
 Q: What's the current status
 A: Some of the funds are still sitting in a wallet. The CEX are aware of the situation and are on alert. 
+
+Q: I read rumours about mars ecosystem. Is it true?
+A: We are waiting for them to put us in contact with the auditors of their code to verify. It's not going fast enough though.
 
 Q: What's the masterchef contract?
 A: https://blockscout.moonriver.moonbeam.network/address/0xB64d3B7A63051F3356b694fD743ba8256F0101aC/transactions
