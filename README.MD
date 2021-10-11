@@ -2,6 +2,17 @@
 If you're here you likely already heard the news that Saturnbeam.io has rugged us.
 While I am no official of anything I will try to provide as much info here as I accuratly can.
 
+### FAQ actionable
+Q: I want to remove my funds, can I?
+A: The moonbeams dev team has made a quick and dirty UI available @ https://moonbeanstoken.com/#/communityhelp
+Others have used https://emergency.rugdoc.io/
+
+Q: I am trying to remove funds, but it's not going.
+A: Funds that were placed in October 2021 are likely placed in the v3 of the contracts which have been drained.
+
+Q: I am on the moonbeanstoken site and I found the tokens in the dropdown list, but the send button isn't working.
+A: The UI is a quick and dirty way to help the community. Error handling was not put in place, the vault is likely empty, and there is a small chance that the site borked in which case you need to try again later.
+
 ### FAQ Disbelief
 Q: I lost a lot, I'm in trouble!
 A: Sorry to hear. We're doing the best we can to minimize the damage.
@@ -17,7 +28,7 @@ Q: I want to give out a reward:
 A: We appreciate the generousity. We are currently working on minimizing the damage. If after we are done you are still interested in donating, we'll see what we can do at a later stage.
 
 Q: I have their phonenumber
-A: We have it too, dead end.
+A: We have it too, it's a fake/burnt number. Dead end.
 
 Q: Can't we associate IP addresses with wallet addresses?
 A: Moonswap team could do this potentially via server logs. This could be useful for the exchanges when the full investigation start, but for us not so useful right now
