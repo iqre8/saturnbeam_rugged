@@ -25,7 +25,9 @@ Contracts deployed were never verified on chain (no guarantee that audited <> de
 ### FAQ Help
 
 Q: I want to give out a reward:
-A: We appreciate the generousity. We are currently working on minimizing the damage. If after we are done you are still interested in donating, we'll see what we can do at a later stage.
+A: We appreciate the generousity. We are currently working on minimizing the damage. 
+The moonbeans team did make a quick and dirty UI which has worked for some of us. They would likely appreciate it if you purchase their $BEANS and hodl as they prioritized helping the community.
+If after we are done you are still interested in donating, we'll see what we can do at a later stage.
 
 Q: I have their phonenumber
 A: We have it too, it's a fake/burnt number. Dead end.
@@ -33,10 +35,16 @@ A: We have it too, it's a fake/burnt number. Dead end.
 Q: Can't we associate IP addresses with wallet addresses?
 A: Moonswap team could do this potentially via server logs. This could be useful for the exchanges when the full investigation start, but for us not so useful right now
 
+Q: We are block explorer's and want to help
+A: Please do and come join @ https://t.co/Ti5ZMt98Fu?amp=1 However please keep the chat for research related stuff only. Emotional responses will only hinder the process.
+
 ### FAQ Information
 
 Q: What was the total value stolen?
 A: 12M
+
+Q: What's the current status
+A: Some of the funds are still sitting in a wallet. The CEX are aware of the situation and are on alert. 
 
 Q: What's the masterchef contract?
 A: https://blockscout.moonriver.moonbeam.network/address/0xB64d3B7A63051F3356b694fD743ba8256F0101aC/transactions
