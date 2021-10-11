@@ -10,6 +10,9 @@ Others have used https://emergency.rugdoc.io/
 Q: I am trying to remove funds, but it's not going.
 A: Funds that were placed in October 2021 are likely placed in the v3 of the contracts which have been drained.
 
+Q: I see the funds on https://emergency.rugdoc.io/ but I cannot withdraw my tokens
+A: Likely you are seeing a receipt for the tokens. However since the vault is drained...
+
 Q: I am on the moonbeanstoken site and I found the tokens in the dropdown list, but the send button isn't working.
 A: The UI is a quick and dirty way to help the community. Error handling was not put in place, the vault is likely empty, and there is a small chance that the site borked in which case you need to try again later.
 
