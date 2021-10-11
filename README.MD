@@ -36,8 +36,11 @@ A: We have it too, it's a fake/burnt number. Dead end.
 Q: Can't we associate IP addresses with wallet addresses?
 A: Moonswap team could do this potentially via server logs. This could be useful for the exchanges when the full investigation start, but for us not so useful right now
 
-Q: We are block explorer's and want to help
-A: Please do and come join @ https://t.co/Ti5ZMt98Fu?amp=1 However please keep the chat for research related stuff only. Emotional responses will only hinder the process.
+Q: We found a dev on github that opened an issue.
+A: As much as we would like to find someone to blame, we need to be careful. It certainly is plausible, however he closed the issue and stated that he, like you, commited some funds to the project and just went a step further and went over their code and found an issue. 
+
+Q: We are block explorer's and want to help.
+A: Please do. Let's try to find all the wallets associated to this project and see if they are also connected to other projects. Come join @ https://t.co/Ti5ZMt98Fu?amp=1 However please keep the chat for research related stuff only. Emotional responses will only hinder the process.
 
 ### FAQ Information
 
